@@ -1,0 +1,1 @@
+IN q12 i have implemented a student management system using a splay tree data structure the functions include (Inserteting a new student having a unique roll number according to property of a tree, Updating a student data , Deletion of a student , Selecting a specific student and displaying a list of students according to ascending order (inorder traversal)
